@@ -72,6 +72,6 @@ if __name__ == "__main__":
     ann.train_the_ann()
     ann.confusion_matrix()
     ann.predict_new_observation([0.0, 0, 600, 1, 40, 3, 60000, 2, 1, 1, 50000])
-    ann.evaluating_the_ann()
-    ann.tuning_the_ann()
+    # ann.evaluating_the_ann()
+    # ann.tuning_the_ann()
 
